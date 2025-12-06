@@ -4,7 +4,6 @@
   <a href="https://setustudios.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-setustudios.vercel.app-brightgreen?style=for-the-badge" alt="Live Demo" />
   </a>
-  <a href="https://setustudios.vercel.app/" target="_blank" rel="noopener noreferrer">https://setustudios.vercel.app/</a>
   <br/>
   <img src="https://img.shields.io/badge/React-18-blue?logo=react&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge" />
