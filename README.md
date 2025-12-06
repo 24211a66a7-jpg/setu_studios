@@ -1,7 +1,11 @@
 # 🌈 Setu Studios — Build Ideas, Fast & Beautiful
 
 <p align="center">
-  <img src="https://img.shields.io/badge/demo-online-brightgreen?style=for-the-badge" />
+  <a href="https://setustudios.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-setustudios.vercel.app-brightgreen?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://setustudios.vercel.app/" target="_blank" rel="noopener noreferrer">https://setustudios.vercel.app/</a>
+  <br/>
   <img src="https://img.shields.io/badge/React-18-blue?logo=react&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Supabase-Postgres-3ECF8E?logo=supabase&style=for-the-badge" />
@@ -41,13 +45,13 @@
 
 ```mermaid
 flowchart TD
-  A[💡 Idea Entry]
-  B[🤖 AI Analyzer]
-  C[📦 Package Builder]
-  D[🛒 Cart & Orders]
-  E[🔔 Email Notifications]
-  F[🔒 Supabase Auth & DB]
-  G[🛠️ Admin Dashboard]
+  A["💡 Idea Entry"]
+  B["🤖 AI Analyzer"]
+  C["📦 Package Builder"]
+  D["🛒 Cart & Orders"]
+  E["🔔 Email Notifications"]
+  F["🔒 Supabase Auth & DB"]
+  G["🛠️ Admin Dashboard"]
 
   A --> B
   B --> C
@@ -66,11 +70,11 @@ flowchart TD
 
 ```mermaid
 graph LR
-  FE[Frontend (React)] --API/DB--> SB[Supabase]
-  FE --LLM Proxy--> PX[Serverless Proxy]
-  PX --Gemini/OpenAI--> LLM[LLM Provider]
-  FE --Email--> EM[EmailJS]
-  SB --Realtime/Storage--> DB[(Postgres DB)]
+  FE["Frontend (React)"] -- "API / DB" --> SB["Supabase"]
+  FE -- "LLM Proxy" --> PX["Serverless Proxy"]
+  PX -- "Gemini / OpenAI" --> LLM["LLM Provider"]
+  FE -- "Email" --> EM["EmailJS"]
+  SB -- "Realtime / Storage" --> DB[(Postgres DB)]
 ```
 
 ---
