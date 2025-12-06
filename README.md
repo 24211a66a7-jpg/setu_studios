@@ -1,4 +1,4 @@
-# 🌈 Setu Studios — Build Ideas, Fast & Beautiful
+# 🌈 Setu Studios - Build Ideas, Fast & Beautiful
 
 <p align="center">
   <a href="https://setustudios.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -16,7 +16,7 @@
 
 ## 🎨 What is Setu Studios?
 
-**Setu Studios** is your creative launchpad for turning ideas into reality. Whether you're a founder, maker, or team, Setu Studios helps you brainstorm, analyze, and package new products and services — all in a beautiful, fast, and secure app.
+**Setu Studios** is your creative launchpad for turning ideas into reality. Whether you're a founder, maker, or team, Setu Studios helps you brainstorm, analyze, and package new products and services - all in a beautiful, fast, and secure app.
 
 | Benefit                | Description                                                      |
 |------------------------|------------------------------------------------------------------|
