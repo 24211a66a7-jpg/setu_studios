@@ -138,7 +138,7 @@ graph LR
 
 ## ⚡ Installation & Setup
 ```powershell
-git clone https://github.com/guidebazaar/setustudios.git
+git clone https://github.com/yashwanth-maram/setu_studios.git
 cd setustudios
 npm install
 copy .env.example .env
